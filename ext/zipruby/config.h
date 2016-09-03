@@ -81,8 +81,8 @@
 #define HAVE_SYS_TYPES_H 1
 
 /* Define to 1 if your `struct tm' has `tm_zone'. Deprecated, use
-   `HAVE_STRUCT_TM_TM_ZONE' instead. */
-#define HAVE_TM_ZONE 1
+   `HAVE_STRUCT_TM_TM_ZONE' instead. 
+#define HAVE_TM_ZONE 1*/
 
 /* Define to 1 if you don't have `tm_zone' but do have the external array
    `tzname'. */
