@@ -33,6 +33,7 @@
 
 
 
+#include "config.h"
 #include <string.h>
 #ifdef HAVE_STRINGS_H
 #include <strings.h>
