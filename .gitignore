@@ -1,4 +1,5 @@
 zipruby/doc
-zipruby/*.gem
 zipruby/*.tar.bz2
 zipruby/zipruby.c
+work
+*.gem
