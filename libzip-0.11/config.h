@@ -71,8 +71,8 @@
 /* Define to 1 if you have the <string.h> header file. */
 #define HAVE_STRING_H 1
 
-/* Define to 1 if `tm_zone' is a member of `struct tm'. */
-#define HAVE_STRUCT_TM_TM_ZONE 1
+/* Define to 1 if `tm_zone' is a member of `struct tm'.
+#define HAVE_STRUCT_TM_TM_ZONE 1 */
 
 /* Define to 1 if you have the <sys/stat.h> header file. */
 #define HAVE_SYS_STAT_H 1
@@ -81,8 +81,8 @@
 #define HAVE_SYS_TYPES_H 1
 
 /* Define to 1 if your `struct tm' has `tm_zone'. Deprecated, use
-   `HAVE_STRUCT_TM_TM_ZONE' instead. */
-#define HAVE_TM_ZONE 1
+   `HAVE_STRUCT_TM_TM_ZONE' instead.
+#define HAVE_TM_ZONE 1 */
 
 /* Define to 1 if you don't have `tm_zone' but do have the external array
    `tzname'. */
